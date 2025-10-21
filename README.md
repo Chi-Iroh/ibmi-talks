@@ -3,6 +3,8 @@
 If you found these talks helpful, please consider [starring this repo](https://github.com/SanjulaGanepola/ibmi-talks) 🌟!
 
 ## VS Code, Git, Code for IBM i, and More
+* [Code for IBM i – What’s New, What’s Next](./Code%20for%20IBM%20i%20–%20What’s%20New,%20What’s%20Next/)
+* [Db2 for i inside of VS Code](./Db2%20for%20i%20inside%20of%20VS%20Code/)
 * [RPG Unit Testing Made Easy In VS Code](./RPG%20Unit%20Testing%20Made%20Easy%20In%20VS%20Code/)
     * [IBM i Unit Testing Now in VS Code!](./IBM%20i%20Unit%20Testing%20Now%20in%20VS%20Code!/) ***(OLD VERSION)***
 * [Modern, Buildable Projects with IBM i Project Explorer and Bob](./Modern%20Buildable%20Projects%20with%20IBM%20i%20Project%20Explorer%20and%20Bob/)
